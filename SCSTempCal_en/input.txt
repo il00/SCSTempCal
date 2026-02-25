@@ -1,0 +1,21 @@
+Tcalc input file
+------------------------------------------------------------------------
+Coefficient                Substance
+---------------Reagents-------------------------------------------------
+1 Zn(NO3)2
+0.6666666 NH2CH2COOH
+0.4444448000000001 C6H8O7
+0.500001 O2
+non non
+---------------Products-------------------------------------------------
+1.0 ZnO
+3.500002 CO2
+3.444446 H2O
+1.333333 N2
+0.5 C
+---------------Reaction_Parameters----------------------------------------
+Mass of object product, g: 5
+Emitting area, m^2: 0.0113
+Burning time, s: 8
+Ignition temperature, K: 450
+The amount of water in crystalline hydrate: 0
