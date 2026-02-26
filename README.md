@@ -16,6 +16,7 @@ SCSTempCal allows researchers to model reactions using different types of fuels 
 - **Four approximation levels** for temperature estimation
 - **Multiple reaction pathway simulation** capabilities
 - **Applicability** for both SCS and SHS reactions
+- **User-friendly graphical interface** for easy data input and result visualization
 - **Substance library** with thermodynamic constants
 
 ### Getting Started
@@ -97,6 +98,7 @@ This software is provided for free use. When using the program, please cite the 
 - **Четыре уровня приближения** для оценки температуры
 - **Моделирование различных путей** протекания реакций
 - **Применение** для SCS и СВС-реакций
+- **Удобный графический интерфейс** для ввода данных и визуализации результатов
 - **Библиотека веществ** с термодинамическими константами
 
 ### Начало работы
