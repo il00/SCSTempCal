@@ -35,7 +35,7 @@ SCSTempCal allows researchers to model reactions using different types of fuels 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/SCSTempCal.git
+git clone https://github.com/il0/SCSTempCal.git
 ```
 2. **Choose your language version**:  
 Navigate to the `SCSTempCal_en` folder for the English version  
@@ -116,7 +116,7 @@ This software is provided for free use. When using the program, please cite the 
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/your-username/SCSTempCal.git
+git clone https://github.com/il0/SCSTempCal.git
 ```
 2. **Выберите версию программы:**
 
