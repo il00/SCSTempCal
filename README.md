@@ -60,8 +60,8 @@ python SCSTempCal.py
 |`input.txt`              |Sample input file               |
 |`SCSTempCal_manual.pdf`  |User manual                     |
 |`SCSTempCal_manual.docx` |User manual                     |
-|`References of data.pdf` |Data sources                    |
-|`References of data.docx`|Data sources                    |
+|`References_of_data.pdf` |Data sources                    |
+|`References_of_data.docx`|Data sources                    |
 
 ### Citation
 
@@ -144,8 +144,8 @@ python SCSTempCal.py
 |`input.txt`              |Пример входного файла             |
 |`SCSTempCal_manual.pdf`  |Инструкция                        |
 |`SCSTempCal_manual.docx` |Инструкция                        |
-|`Referenced of data.pdf`	|Источники термодинамических данных|
-|`Referenced of data.docx`|Источники термодинамических данных|
+|`References_of_data.pdf`	|Источники термодинамических данных|
+|`References_of_data.docx`|Источники термодинамических данных|
 
 
 ### Цитирование
